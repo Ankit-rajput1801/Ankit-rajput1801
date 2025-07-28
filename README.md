@@ -44,14 +44,7 @@ I thrive on transforming ideas into working products using modern technologies a
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-rajput1801&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-rajput1801&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
