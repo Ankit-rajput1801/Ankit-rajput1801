@@ -62,6 +62,4 @@ I thrive on transforming ideas into working products using modern technologies a
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankit-rajput1801&style=flat-square" />
-</div>
+<
